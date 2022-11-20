@@ -18,6 +18,4 @@ A couple of beginner projects here to study purposes.
 
 💻 `Sudoku: Sudoku solver using backtracking`
 
-💻 `Photo Editing in Python:` Python implementation of image filters. Use Python to adjust brightness and contrast, add blur, and detect edges!
-
 💻 `Markov Chain Composer:` Using Markov Chain to represent relationships between words in song lyrics and then generating new lyrics.. ahem interpretive poetry... from the graph
